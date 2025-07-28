@@ -15,6 +15,8 @@ HOW TO RUN:
 2. Run the script using:
    python3 ransomware.py
 
+3. In order to test if its working i would recommend deleting everything except ransomware.py and do step 1 and 2.
+
 WHAT IT DOES:
 -------------
 The script performs the following steps:
